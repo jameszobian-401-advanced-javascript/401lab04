@@ -5,10 +5,10 @@ lab04
 ### Author: James Zobian
 
 ### Links and Resources
-* [submission PR](https://github.com/jameszobian-401-advanced-javascript/401lab02/pulls)
-* [travis](https://travis-ci.com/jameszobian-401-advanced-javascript/401lab02)
+* [submission PR](https://github.com/jameszobian-401-advanced-javascript/401lab04/pulls)
+* [travis](https://travis-ci.com/jameszobian-401-advanced-javascript/401lab04/builds/128432271)
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](https://travis-ci.com/jameszobian-401-advanced-javascript/401lab02/) (when applicable)
+* [front-end](https://travis-ci.com/jameszobian-401-advanced-javascript/401lab04/) (when applicable)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
@@ -43,4 +43,3 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-![401lab02UML](401lab02UML.png)
