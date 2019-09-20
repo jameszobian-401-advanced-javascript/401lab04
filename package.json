@@ -4,7 +4,7 @@
   "description": "",
   "main": "players-schema.js",
   "scripts": {
-    "lint": "eslint **/.js",
+    "lint": "eslint **/*.js",
     "test": "jest --verbose",
     "test-watch": "jest --watchAll --verbose"
   },
